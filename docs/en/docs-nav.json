@@ -1,16 +1,11 @@
-{  
-   "items":[  
-      {  
-         "text":"About",
-         "items":[  
-            {  
-               "text":"About",
-               "items":[  
-                  {  
-                     "text":"Getting Started",
-                     "path":"getting-started.md"
-                  }
-               ]
+{
+   "items": [
+      {
+         "text": "About",
+         "items": [
+            {
+               "text": "Getting Started",
+               "path": "getting-started.md"
             }
          ]
       }
